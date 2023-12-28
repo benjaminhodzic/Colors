@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4565550976521259143
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4561769496965970231}
+  - component: {fileID: 4566517616932998503}
+  m_Layer: 0
+  m_Name: Glavna_skripta_obj 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4561769496965970231
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4565550976521259143}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.17103983, y: -0.9258992, z: -0.03784206}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4566517616932998503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4565550976521259143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8a556ec5abdc8b4a8d4361e059ee0e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  katapult: {fileID: 0}
+  katapult_gl: {fileID: 0}
+  glavni_obj: {fileID: 0}
+  glavni:
+  - {fileID: 1163392517758136, guid: 5a14803472ed4894b957b16c5bc5d8bc, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  jacina_ispaljivanja01: 0
+  jacina_ispaljivanja: 0
+  nextlevel_canvas: {fileID: 0}
+  repeat_canvas: {fileID: 0}
+  zvijezde_skupljene: 0
+  repeat_dole: 0
+  nextlevel_dole: 0
+  samo_jednom: 0
+  enemy_touched: 0
+  katapult_ispaljen: 0
+  broj_bonova: 0
+  broj_zvijezda: 0
+  vrijednost_bonova: 0
+  skupljeni_bonovi: 0
+  suma_levela: 0
+  skinute_zvijezde: 0
+  vrijeme_mirovanja_glavnog: 0
+  done_text: {fileID: 0}
+  repeat_next_level: {fileID: 0}
+  enemy_touched_prikaz: {fileID: 0}
+  zvijezde_repeat_prikaz: {fileID: 0}
+  skinute_zv_prikaz: {fileID: 0}
+  dobijeni_coinsi_prikaz: {fileID: 0}
+  skinute_zv_prikaz_repeat: {fileID: 0}

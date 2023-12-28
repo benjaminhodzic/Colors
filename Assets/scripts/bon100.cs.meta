@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fdde533967fad9b4bb9a84c6ceb15ee0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nagrada_confetti: {fileID: 4482659636497859571, guid: 9bca234c5e41031468b4f4590b9ea10f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
